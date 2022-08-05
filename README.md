@@ -1,5 +1,5 @@
 # comparch1
-The project is fully described in the given PDF if you have some issues or questions let me know valentin.parisot@epfl.ch
+The project is fully described under the PDF Project_Doc, if you have some issues, questions or even suggeations let me know by valentin.parisot@epfl.ch.
 
 Best, 
 
